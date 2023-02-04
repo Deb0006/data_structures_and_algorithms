@@ -3,7 +3,7 @@ from search_algorithms import binary_search
 from search_algorithms import binary_search_recursion
 from sorting_algorithms import bubble_sort
 from sorting_algorithms import insertion_sort
-from sorting_algorithms import quick_sort
+from sorting_algorithms import merge_sort
 
 # print(linear_search.linearSearch([5,8,3,7,4],7))#3
 
@@ -15,4 +15,4 @@ from sorting_algorithms import quick_sort
 
 print(insertion_sort.insertion([5,8,3,-5,7,4]))
 
-print(quick_sort.quickSort([5,8,3,-5,7,4]))
+print(merge_sort.merge([5,8,3,-5,7,4]))
