@@ -13,6 +13,6 @@ from sorting_algorithms import merge_sort
 
 # print(bubble_sort.bubbleSort([-5,8,2,7,6,10]))
 
-print(insertion_sort.insertion([5,8,3,-5,7,4]))
+# print(insertion_sort.insertion([5,8,3,-5,7,4]))
 
 print(merge_sort.merge([5,8,3,-5,7,4]))
