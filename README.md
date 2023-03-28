@@ -38,7 +38,7 @@ After installing Python 3, follow these steps to clone the repository on your lo
 2. Navigate to the directory where you want to clone the repository.
 3. Type the following command:
 ```bash
-git clone https://github.com/yourusername/python-search-and-sorting-algorithms.git
+git clone https://github.com/Deb0006/data_structures_and_algorithms.git
 ```
 4. Press Enter to clone the repository.
 
